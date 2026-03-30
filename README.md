@@ -7,10 +7,10 @@ The goal is to simulate a real-world fraud analytics scenario by detecting patte
 
 **Objectives**
 
-Identify fraudulent transaction patterns
-Analyse fraud distribution by region, channel, and customer segments
-Build a dashboard to support decision-making
-Highlight high-risk transactions and behaviours
+-Identify fraudulent transaction patterns
+-Analyse fraud distribution by region, channel, and customer segments
+-Build a dashboard to support decision-making
+-Highlight high-risk transactions and behaviours
 
 **Tools & Technologies**
 

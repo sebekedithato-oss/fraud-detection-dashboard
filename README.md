@@ -26,6 +26,7 @@ Transaction type
 Fraud flag
 
 Key Insights
+
 Fraud is concentrated in specific transaction channels (e.g., online payments)
 High-value transactions show a higher fraud probability
 Certain regions exhibit elevated fraud rates

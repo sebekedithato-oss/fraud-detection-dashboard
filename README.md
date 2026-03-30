@@ -27,7 +27,7 @@ The goal is to simulate a real-world fraud analytics scenario by detecting patte
 
 -Source: Simulated financial transactions dataset (or Kaggle)
 
-Records include:
+**Records include:**
 
 -Transaction ID
 

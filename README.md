@@ -2,7 +2,9 @@
 
 🔍 Project Overview
 
-This project showcases a Fraud Detection Dashboard built using Power BI. The goal is to analyze transactional data, identify fraud patterns, and present actionable insights through interactive visualizations.
+This project showcases a Fraud Detection Dashboard built using Power BI. 
+The goal is to analyze transactional data, identify fraud patterns, 
+and present actionable insights through interactive visualizations.
 
 The dashboard is designed for business stakeholders to monitor fraud trends, detect anomalies, and support data-driven decision-making.
 

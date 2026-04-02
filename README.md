@@ -110,6 +110,6 @@ This dashboard enables:
 
 **Author**
 
--Thato Sebekedi
+Thato Sebekedi
 
--Data Analyst | Fraud Analytics | Power BI
+Data Analyst | Fraud Analytics | Power BI

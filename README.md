@@ -109,5 +109,7 @@ This dashboard enables:
 3. Interact with filters and visuals
 
 **Author**
+
 -Thato Sebekedi
+
 -Data Analyst | Fraud Analytics | Power BI

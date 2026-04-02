@@ -96,21 +96,21 @@ The dataset includes transactional data with the following fields:
 2. Excel – Data preparation and cleaning
 3. GitHub – Version control and project portfolio
 
-🧹 Data Preparation Strategy
+**Data Preparation Strategy**
 
 1. Cleaned and formatted dataset in Excel.
 2. Handled missing values and ensured data consistency.
 3. Imported dataset into Power BI.
 4. Created calculated measures and KPIs.
 
-Data Modeling & Measures
+**Data Modeling & Measures**
 
 Created calculated measures for:
-Fraud Rate (%)
-Total Fraud Amount
-Transaction Volume Trends
-Applied data transformations to ensure consistency and accuracy
-Designed a user-friendly semantic model for intuitive analysis
+1. Fraud Rate (%)
+2. Total Fraud Amount
+3. Transaction Volume Trends
+4. Applied data transformations to ensure consistency and accuracy
+5. Designed a user-friendly semantic model for intuitive analysis
 
 📈 Key Insights Delivered
 

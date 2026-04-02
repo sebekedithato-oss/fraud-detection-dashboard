@@ -25,15 +25,12 @@ The dataset includes transactional data with the following fields:
 7. Fraud_Flag – Indicates fraud (1 = Fraud, 0 = Non-Fraud)
 
 📊 Key Features of the Dashboard
-1. KPI Cards
-   
-1.1 Total Transactions
 
-1.2 Total Fraud Cases
-
-1.3 Fraud Rate (%)
-
-1.4 Total Transaction Amount
+**KPI Cards**
+1. Total Transactions
+2. Total Fraud Cases
+3. Fraud Rate (%)
+4. Total Transaction Amount
 
 
 2. Visualizations

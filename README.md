@@ -8,7 +8,9 @@ The goal is to analyze transactional data, identify fraud patterns,
 
 and present actionable insights through interactive visualizations.
 
-The dashboard is designed for business stakeholders to monitor fraud trends, detect anomalies, and support data-driven decision-making.
+The dashboard is designed for business stakeholders to monitor fraud trends, 
+
+detect anomalies, and support data-driven decision-making.
 
 🎯 Objectives
 

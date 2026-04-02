@@ -1,8 +1,8 @@
-📊 Fraud Detection & Risk Insights Dashboard
+📊 **Fraud Detection & Risk Insights Dashboard**
 
 Turning Transaction Data into Proactive Fraud Intelligence
 
-🚀 Executive Summary
+🚀 **Executive Summary**
 
 Fraud is not just a financial risk 
 — it is a strategic business threat that impacts revenue, customer trust, and operational efficiency.

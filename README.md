@@ -26,28 +26,28 @@ The dataset includes transactional data with the following fields:
 
 📊 Key Features of the Dashboard
 1. KPI Cards
-Total Transactions
-Total Fraud Cases
-Fraud Rate (%)
-Total Transaction Amount
+1.1 Total Transactions
+1.2 Total Fraud Cases
+1.3 Fraud Rate (%)
+1.4 Total Transaction Amount
 
 2. Visualizations
-Fraud by Region (Bar Chart)
-Fraud by Transaction Type (Donut Chart)
-Fraud Trend Over Time (Line Chart)
-Transaction Amount Distribution
+2.1 Fraud by Region (Bar Chart)
+2.2 Fraud by Transaction Type (Donut Chart)
+2.3 Fraud Trend Over Time (Line Chart)
+2.4 Transaction Amount Distribution
 
 3. Drill-Through Functionality
-Dedicated drill-through page for detailed analysis
-Filter by:
-Region
-Transaction Type
-Fraud Flag
+3.1 Dedicated drill-through page for detailed analysis
+3.2 Filter by:
+3.3 Region
+3.4 Transaction Type
+3.5 Fraud Flag
 
 4. Slicers
-Region
-Transaction Type
-Date
+4.1 Region
+4.2 Transaction Type
+4.3 Date
 
 🛠️ Tools & Technologies
 

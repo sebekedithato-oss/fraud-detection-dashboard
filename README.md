@@ -130,7 +130,7 @@ This solution enables organizations to:
 
 🚀 How to Use
 
-1. Download the .pbix file from this repository
+1. Download the fraud-detection-dashboard.pbix file from this repository within the powerbi folder
 2. Open using Power BI Desktop
 3. Use slicers to filter data
 4. Right-click visuals to access drill-through insights
@@ -151,19 +151,6 @@ This solution enables organizations to:
 6. Date
 7. Fraud_Flag
 
-**Business Impact**
-
-This dashboard enables:
-
-1. Faster fraud detection
-2. Improved monitoring of suspicious activities
-3. Data-driven decision-making for risk mitigation
-
-**How to Use**
-
-1. Open the .pbix file in Power BI Desktop
-2. Refresh data if needed
-3. Interact with filters and visuals
 
 **Author**
 

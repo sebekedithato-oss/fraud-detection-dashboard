@@ -1,4 +1,4 @@
-📊 **Fraud Detection & Risk Insights Dashboard**
+📊 Fraud Detection & Risk Insights Dashboard
 
 Turning Transaction Data into Proactive Fraud Intelligence
 

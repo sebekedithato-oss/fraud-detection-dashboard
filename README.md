@@ -6,22 +6,23 @@ This project showcases a Fraud Detection Dashboard built using Power BI. The goa
 The dashboard is designed for business stakeholders to monitor fraud trends, detect anomalies, and support data-driven decision-making.
 
 🎯 Objectives
-Identify fraudulent transactions across regions and channels
-Analyze transaction behavior patterns
-Monitor key fraud risk indicators
-Enable drill-through analysis for deeper investigation
+
+1. Identify fraudulent transactions across regions and channels
+2. Analyze transaction behavior patterns
+3. Monitor key fraud risk indicators
+4. Enable drill-through analysis for deeper investigation
 
 📁 Dataset Description
 
 The dataset includes transactional data with the following fields:
 
-Transaction_ID – Unique identifier for each transaction
-Customer_ID – Unique customer identifier
-Amount – Transaction value
-Transaction_Type – ATM, POS, Online
-Region – Geographic location (e.g., Gauteng, KZN)
-Date – Transaction date
-Fraud_Flag – Indicates fraud (1 = Fraud, 0 = Non-Fraud)
+1. Transaction_ID – Unique identifier for each transaction
+2. Customer_ID – Unique customer identifier
+3. Amount – Transaction value
+4. Transaction_Type – ATM, POS, Online
+5. Region – Geographic location (e.g., Gauteng, KZN)
+6. Date – Transaction date
+7. Fraud_Flag – Indicates fraud (1 = Fraud, 0 = Non-Fraud)
 
 📊 Key Features of the Dashboard
 1. KPI Cards

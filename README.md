@@ -1,3 +1,23 @@
+# Hi, I'm Thato Sebekedi 👋
+
+💼 Data Analyst | Fraud & Risk Analytics  
+📊 Turning data into actionable business insights  
+
+## 🔍 What I Do
+- Fraud detection & risk analysis  
+- Power BI dashboard development  
+- Data storytelling for decision-making  
+
+## 🚀 Featured Projects
+- Fraud Detection Dashboard (Power BI)
+- [Next Projects Coming]
+
+## 🛠️ Tools
+Power BI | Excel | SQL (if applicable)
+
+## 📬 Let's Connect
+LinkedIn: [your link]
+
 📊 Fraud Detection & Risk Insights Dashboard
 
 Turning Transaction Data into Proactive Fraud Intelligence

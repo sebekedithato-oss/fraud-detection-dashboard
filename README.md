@@ -16,7 +16,7 @@ The solution transforms raw transactional data into clear, actionable insights, 
 3. Investigate anomalies through drill-through analytics
 4. Support fraud prevention strategies
 
-🎯 Business Problem
+🎯 **Business Problem**
 
 Organizations often struggle with:
 
@@ -26,7 +26,7 @@ Organizations often struggle with:
 
 This leads to increased financial losses and reactive decision-making.
 
-💡 Solution Approach
+💡 **Solution Approach**
 
 This dashboard was designed to shift fraud monitoring from reactive reporting → proactive intelligence by:
 
@@ -35,14 +35,14 @@ This dashboard was designed to shift fraud monitoring from reactive reporting �
 3. Enabling interactive exploration and drill-through investigation
 4. Highlighting key fraud drivers through visual storytelling
 
-🎯 Objectives
+🎯 **Objectives**
 
 1. Identify fraudulent transactions across regions and channels
 2. Analyze transaction behavior patterns
 3. Monitor key fraud risk indicators
 4. Enable drill-through analysis for deeper investigation
 
-📁 Dataset Description
+📁 **Dataset Description**
 
 The dataset includes transactional data with the following fields:
 
@@ -54,9 +54,9 @@ The dataset includes transactional data with the following fields:
 6. Date – Transaction date
 7. Fraud_Flag – Indicates fraud (1 = Fraud, 0 = Non-Fraud)
 
-📊 Key Capabilities
+📊 **Key Capabilities**
 
-🔹 Fraud Risk Monitoring
+🔹 **Fraud Risk Monitoring**
 
 **KPI Cards**
 1. Total Transactions
@@ -88,7 +88,7 @@ The dataset includes transactional data with the following fields:
 2. Transaction Type
 3. Date
 
-🛠️ Technical Implementations
+🛠️ **Technical Implementations**
 
 **Tools & Technologies**
 
@@ -112,14 +112,14 @@ Created calculated measures for:
 4. Applied data transformations to ensure consistency and accuracy
 5. Designed a user-friendly semantic model for intuitive analysis
 
-📈 Key Insights Delivered
+📈 **Key Insights Delivered**
 
 1. Online transactions exhibit higher fraud exposure, indicating digital channel vulnerability.
 2. Specific regions consistently show elevated fraud concentration, suggesting targeted risk zones.
 3. Fraud patterns fluctuate over time, revealing potential behavioral or seasonal trends.
 3. High-value transactions contribute disproportionately to fraud risk.
 
-📈 Business Impact
+📈 **Business Impact**
 
 This solution enables organizations to:
 
@@ -128,14 +128,14 @@ This solution enables organizations to:
 3. Enhance operational efficiency in fraud investigation
 4. Strengthen risk management and governance frameworks
 
-🚀 How to Use
+🚀 **How to Use**
 
 1. Download the fraud-detection-dashboard.pbix file from this repository within the powerbi folder
 2. Open using Power BI Desktop
 3. Use slicers to filter data
 4. Right-click visuals to access drill-through insights
 
-💡 Future Enhancements
+💡 **Future Enhancements**
 
 1. Predictive fraud detection (Artificial Intelligence/Machine Learning)
 2. Integrated real-time data sources
@@ -164,7 +164,7 @@ A results-driven data professional with a strong foundation in:
 2. Data visualization and storytelling
 3. Transforming complex data into strategic business value
 
-📬 Let’s Connect
+📬 **Let’s Connect**
 
 I am actively seeking opportunities in:
 
@@ -174,6 +174,6 @@ I am actively seeking opportunities in:
 
 If you’re looking for someone who can translate data into impact, let’s connect.
 
-⭐ Portfolio Note
+⭐ **Portfolio Note**
 
 This project is part of a growing portfolio focused on solving real-world business problems using data analytics and visualization.

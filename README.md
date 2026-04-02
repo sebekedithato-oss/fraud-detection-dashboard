@@ -1,4 +1,4 @@
-🚀 A business-focused fraud analytics dashboard designed to identify high-risk transactions and enable faster, data-driven decision-making.
+🚀 A business-focused **fraud analytics dashboard** designed to identify **high-risk transactions** and enable **faster, data-driven decision-making**.
 
 Hi, I'm Thato Sebekedi 👋
 

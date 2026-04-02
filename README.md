@@ -199,10 +199,13 @@ I am actively seeking opportunities in:
 2. Fraud & Risk Intelligence
 3. Business Intelligence
 
-If you’re looking for someone who can translate data into impact, let’s connect.
 
 ⭐ **Portfolio Note**
 
 This project is part of a growing portfolio focused on solving real-world business problems using data analytics and visualization.
 
 > 🚀 A business-focused fraud analytics dashboard designed to enable proactive risk detection and faster decision-making.
+
+📬 Let’s Connect
+
+If you're looking for a data analyst who can turn data into actionable insights, feel free to connect with me on LinkedIn.

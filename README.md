@@ -49,55 +49,60 @@ Transaction Type
 Date
 
 🛠️ Tools & Technologies
-Power BI Desktop – Data visualization and dashboard creation
-Excel – Data preparation and cleaning
-GitHub – Version control and project portfolio
+
+1. Power BI Desktop – Data visualization and dashboard creation
+2. Excel – Data preparation and cleaning
+3. GitHub – Version control and project portfolio
 
 🧹 Data Preparation Steps
-Cleaned and formatted dataset in Excel
-Handled missing values and ensured data consistency
-Imported dataset into Power BI
-Created calculated measures and KPIs
+
+1. Cleaned and formatted dataset in Excel
+2. Handled missing values and ensured data consistency
+3. Imported dataset into Power BI
+4. Created calculated measures and KPIs
 
 📈 Key Insights
-Certain regions show higher fraud concentration
-Online transactions have a higher fraud risk compared to ATM/POS
-Fraud patterns fluctuate over time, indicating possible seasonal or behavioral trends
+
+1. Certain regions show higher fraud concentration
+2. Online transactions have a higher fraud risk compared to ATM/POS
+3. Fraud patterns fluctuate over time, indicating possible seasonal or behavioral trends
 
 🚀 How to Use
-Download the .pbix file from this repository
-Open using Power BI Desktop
-Use slicers to filter data
-Right-click visuals to access drill-through insights
+
+1. Download the .pbix file from this repository
+2. Open using Power BI Desktop
+3. Use slicers to filter data
+4. Right-click visuals to access drill-through insights
 
 💡 Future Enhancements
-Predictive fraud detection (Artificial Intelligence/Machine Learning)
-Integrated real-time data sources
-Enhanced anomaly detection techniques
+
+1. Predictive fraud detection (Artificial Intelligence/Machine Learning)
+2. Integrated real-time data sources
+3. Enhanced anomaly detection techniques
 
 **Records include:**
 
-Transaction ID
-Customer ID
-Amount
-Transaction Type
-Region
-Date
-Fraud_Flag
+1. Transaction ID
+2. Customer ID
+3. Amount
+4. Transaction Type
+5. Region
+6. Date
+7. Fraud_Flag
 
 **Business Impact**
 
 This dashboard enables:
 
-Faster fraud detection
-Improved monitoring of suspicious activities
-Data-driven decision-making for risk mitigation
+1. Faster fraud detection
+2. Improved monitoring of suspicious activities
+3. Data-driven decision-making for risk mitigation
 
 **How to Use**
 
-Open the .pbix file in Power BI Desktop
-Refresh data if needed
-Interact with filters and visuals
+1. Open the .pbix file in Power BI Desktop
+2. Refresh data if needed
+3. Interact with filters and visuals
 
 **Author**
 Thato Sebekedi

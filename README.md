@@ -34,33 +34,23 @@ The dataset includes transactional data with the following fields:
 
 
 **Visualizations**
-   
 1. Fraud by Region (Bar Chart)
 2. Fraud by Transaction Type (Donut Chart)
 3. Fraud Trend Over Time (Line Chart)
 4. Transaction Amount Distribution
 
-
-3. Drill-Through Functionality
-   
-3.1 Dedicated drill-through page for detailed analysis
-
-3.2 Filter by:
-
-3.3 Region
-
-3.4 Transaction Type
-
-3.5 Fraud Flag
+**Drill-Through Functionality**
+1. Dedicated drill-through page for detailed analysis
+2. Filter by:
+3. Region
+4. Transaction Type
+5. Fraud Flag
 
 
-4. Slicers
-   
-4.1 Region
-
-4.2 Transaction Type
-
-4.3 Date
+**Slicers**
+1. Region
+2. Transaction Type
+3. Date
 
 🛠️ Tools & Technologies
 

@@ -16,7 +16,7 @@
 Power BI | Excel | SQL (if applicable)
 
 ## 📬 Let's Connect
-LinkedIn: [your link]
+LinkedIn: https://www.linkedin.com/in/thato-sebekedi/
 
 📊 Fraud Detection & Risk Insights Dashboard
 

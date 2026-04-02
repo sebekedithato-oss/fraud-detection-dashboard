@@ -1,3 +1,5 @@
+> 🚀 A business-focused fraud analytics dashboard designed to proactively identify high-risk transactions and support faster, data-driven decision-making.
+
 Hi, I'm Thato Sebekedi 👋
 
 💼 Data Analyst | Fraud & Risk Analytics  
@@ -22,7 +24,6 @@ LinkedIn: https://www.linkedin.com/in/thato-sebekedi/
 
 Turning Transaction Data into Proactive Fraud Intelligence
 
-> 🚀 A business-focused fraud analytics dashboard designed to enable proactive risk detection and faster decision-making.
 
 ## 🌍 Why This Project Matters
 

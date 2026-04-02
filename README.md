@@ -20,9 +20,9 @@ The solution transforms raw transactional data into clear, actionable insights, 
 
 Organizations often struggle with:
 
-Delayed fraud detection due to fragmented reporting
-Limited visibility into fraud patterns across regions and channels
-Inability to quickly drill into suspicious transactions
+1. Delayed fraud detection due to fragmented reporting
+2. Limited visibility into fraud patterns across regions and channels
+3. Inability to quickly drill into suspicious transactions
 
 This leads to increased financial losses and reactive decision-making.
 
@@ -30,10 +30,10 @@ This leads to increased financial losses and reactive decision-making.
 
 This dashboard was designed to shift fraud monitoring from reactive reporting → proactive intelligence by:
 
-Consolidating transaction data into a single analytical view
-Creating real-time KPI monitoring for fraud risk
-Enabling interactive exploration and drill-through investigation
-Highlighting key fraud drivers through visual storytelling
+1. Consolidating transaction data into a single analytical view
+2. Creating real-time KPI monitoring for fraud risk
+3. Enabling interactive exploration and drill-through investigation
+4. Highlighting key fraud drivers through visual storytelling
 
 🎯 Objectives
 

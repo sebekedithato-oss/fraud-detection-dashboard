@@ -168,3 +168,9 @@ This dashboard enables:
 Thato Sebekedi
 
 Data Analyst | Fraud Analytics | Power BI
+
+A results-driven data professional with a strong foundation in:
+
+1. Fraud analytics and risk insights
+2. Data visualization and storytelling
+3. Transforming complex data into strategic business value

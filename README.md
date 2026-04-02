@@ -11,10 +11,10 @@ This project demonstrates how data can be leveraged to proactively detect fraud 
 
 The solution transforms raw transactional data into clear, actionable insights, empowering stakeholders to:
 
-Identify high-risk regions and channels
-Monitor fraud trends in near real-time
-Investigate anomalies through drill-through analytics
-Support fraud prevention strategies
+1. Identify high-risk regions and channels
+2. Monitor fraud trends in near real-time
+3. Investigate anomalies through drill-through analytics
+4. Support fraud prevention strategies
 
 🎯 Business Problem
 

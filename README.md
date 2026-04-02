@@ -1,5 +1,7 @@
 📊 Fraud Detection & Risk Insights Dashboard
+
 Turning Transaction Data into Proactive Fraud Intelligence
+
 🚀 Executive Summary
 
 Fraud is not just a financial risk 

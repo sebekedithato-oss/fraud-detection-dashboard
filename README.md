@@ -22,8 +22,9 @@ LinkedIn: https://www.linkedin.com/in/thato-sebekedi/
 
 📊 Fraud Detection & Risk Insights Dashboard
 
+### Fraud Overview Dashboard  
+Provides a high-level view of fraud KPIs, transaction trends, and regional risk exposure to support rapid decision-making.
 Turning Transaction Data into Proactive Fraud Intelligence
-
 
 ## 🌍 Why This Project Matters
 

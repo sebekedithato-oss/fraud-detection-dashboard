@@ -35,7 +35,8 @@ The dataset includes transactional data with the following fields:
 
 1.4 Total Transaction Amount
 
-3. Visualizations
+
+2. Visualizations
    
 2.1 Fraud by Region (Bar Chart)
 
@@ -44,6 +45,7 @@ The dataset includes transactional data with the following fields:
 2.3 Fraud Trend Over Time (Line Chart)
 
 2.4 Transaction Amount Distribution
+
 
 3. Drill-Through Functionality
    
@@ -56,6 +58,7 @@ The dataset includes transactional data with the following fields:
 3.4 Transaction Type
 
 3.5 Fraud Flag
+
 
 4. Slicers
    

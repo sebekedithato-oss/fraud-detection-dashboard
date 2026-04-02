@@ -2,6 +2,8 @@
 
 Turning Transaction Data into Proactive Fraud Intelligence
 
+> 🚀 A business-focused fraud analytics solution designed to enable proactive risk detection and decision-making.
+
 🚀 **Executive Summary**
 
 Fraud is not just a financial risk 

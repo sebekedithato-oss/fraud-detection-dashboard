@@ -163,3 +163,17 @@ A results-driven data professional with a strong foundation in:
 1. Fraud analytics and risk insights
 2. Data visualization and storytelling
 3. Transforming complex data into strategic business value
+
+📬 Let’s Connect
+
+I am actively seeking opportunities in:
+
+1. Data Analytics
+2. Fraud & Risk Intelligence
+3. Business Intelligence
+
+If you’re looking for someone who can translate data into impact, let’s connect.
+
+⭐ Portfolio Note
+
+This project is part of a growing portfolio focused on solving real-world business problems using data analytics and visualization.
